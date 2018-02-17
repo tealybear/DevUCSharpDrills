@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\bin\simpleCalculator.dll.config
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\bin\simpleCalculator.dll
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\bin\simpleCalculator.pdb
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.dll
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb

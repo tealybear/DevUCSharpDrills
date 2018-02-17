@@ -1,0 +1,94 @@
+
+Data Types (CS-ASP_007)
+=======================
+Comments:  // Single line ... /* Multiline */
+
+string => alphanumeric (defaults to "")
+int => 2 billion to -2 billion (defaults to 0)
+double => fractional value (defaults to 0.0)
+bool => true or false (defaults to false) Boolean
+
+More: http://is.gd/data_types
+
+
+Data Type Converstion (CS-ASP_008)
+==================================
+Implicit conversions - smaller type to larger type
+without data loss, "upcasting"
+
+Explicit conversions - require developer intervention
+possibility of data loss, "downcasting", either in
+the form of cast() or using a helper method.
+
+Casting numbers:
+int myInteger = (int)myDouble;
+
+Number to strings:
+string myString = myInteger.ToString();
+
+String to Numbers:
+int myInteger = int.Parse(myString);
+
+More: http://is.gd/datatype_conversion
+
+
+Arithmatic Operators (CS-ASP_009)
+=================================
+= NOT equality, it's assignment
+
+Math Operators: + - * /
+
+Addition Assignment
+total = total + 5;
+total += 5;
+
+increment operator: i++;
+Decrement Operator: i--;
+
+Beware of order of precedence (use parenthesis) PEMDAS
+Beware of down casting (you'll lose precision)
+Beware of overflow (use bigger types)
+
+To make overflow throw an exception:
+
+checked
+{
+	// some arithmatic operation
+	// that could potentially overflow
+}
+
+C# Syntax (CS-ASP_010)
+======================
+Operands - variable names, object / server control 
+names, literals - "Nouns" (you name these)
+
+Operators - "Verbs ... they act on the operands.
+
+http://is.gd/operators
+
+Expressions - One or more operands and zero or more 
+operators that evaluate to a single value
+
+http://is.gd/expressions
+
+Statements - A complete instruction - assignment of an expression to a variable, an increment/ decrement, etc.
+
+http://is.gd/statement
+
+Statements must end in a semi-colon ;
+Whitespace is ignored (Use for humans)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\bin\CS-ASP_008.dll.config
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\bin\CS-ASP_008.dll
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\bin\CS-ASP_008.pdb
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.dll
+C:\Users\David\Desktop\Repositories\DevUCSharpDrills\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.pdb
