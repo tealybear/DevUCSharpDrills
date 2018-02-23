@@ -112,6 +112,80 @@ returning a result.
 result = (a == b) ? "Equal" : "Not Equal";
 
 
+Comparison and Logical Operator (CS-ASP_013)
+============================================
+Comparison Operators
+used for conditional statements
+==
+!=
+< >
+<= >=
+!someBooleanValue - means NOT is true
+
+Logical Operators
+used to combine multiple expressions / evaluation
+
+&& - AND if x and y are true, pass command
+|| - OR if x or y is true, pass command
+
+Combine with parenthesis ( ) for order of precedence
+
+
+Working with Dates and Times (CS-ASP_014)
+=========================================
+
+Creating new DateTime objects
+DateTime myDateTime = DateTime.Now;
+DateTime myDateTime = DateTime("10/24/1993");
+
+Formatting ... many options:
+myDateTime.To_____()
+
+Retrieving Parts:
+myDateTime.Year // int
+myDateTime.Hour // int
+myDateTime.DayOfWeek // "Monday" string
+myDateTime.DayOfYear // int ex. 22
+
+DateTime Math:
+myDateTime.AddHour(3)
+myDateTime.AddMinute(-5)
+
+"Chaining" = using multiple helper methods
+together with the . operator
+myDateTime.AddHour(3).AddMinute(-5).ToString()
+
+
+Working with Spans of Time (CS-ASP_015)
+=======================================
+
+Create and initialize new TimeSpans
+
+// Days.Hours:Minutes:Seconds.Milliseconds
+TimeSpan myTimeSpan = TimeSpan.Parse("1.2:3:30.5")
+				    ("day.hour:minute:seconds")
+DateTime myBirthday = DateTime.Parse("12/7/1969");
+TimeSpan myAge = DateTime.Now.Subtract(myBirthday);
+
+More info at http://is.gd/timespan
+
+Get individual parts of TimeSpans
+myAge.Hours
+myAge.Seconds
+
+... or get TOTAL elapsed time
+as a double representing both
+the number of days / hours / etc.
+AND fractional values representing
+"left overs".
+
+myTimeSpan.TotalDays // double
+myTimeSpan.TotalHours // double
+
+
+
+
+
 
 
 
